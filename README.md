@@ -1,6 +1,10 @@
-# simple_robots
-The repo name might be misleading. Using Robo-physics interface, Python or other languages and tools you can build quite complex robots...
-But with the help of the right tools, your project can be concluded witha few **simple** lines of code.
+# Robotics
+From easy peasy projects to yearly ones, here you may find a lot of usefull code for your next robot. 
 
-Here you'll find a few examples for that.
+Projects were built using :
+1. Tello-Edu package - for programming drones
+2. Robo-physics interface - extremly user friendly and easy to use. With a few lines of code you could build quite complicated robots that use AI and much more...
+
+Most commonly used langauge for my projects was Python.
+
 Enjoy :)
